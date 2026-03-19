@@ -48,8 +48,8 @@
             bindings = <
 &kp F1     &kp F2           &kp F3    &kp F4            &kp F5         &kp F6                                 &kp F7            &kp F8             &kp F9             &kp F10         &kp F11      &kp F12
 &none      &none            &none     &none             &none          &none                                  &kp KP_NUMBER_7   &kp KP_NUMBER_8    &kp KP_NUMBER_9    &kp KP_NUMLOCK  &kp KP_PLUS  &kp DELETE 
-&studio_unlock&none         &none     &kp PRINTSCREEN   &kp UP_ARROW   &kp GRAVE                              &kp KP_NUMBER_4   &kp KP_NUMBER_5    &kp KP_NUMBER_6    &kp KP_MULTIPLY &kp KP_MINUS &kp K_VOLUME_UP
-&kp DELETE &none            &none     &kp LEFT_ARROW    &kp DOWN_ARROW &kp RIGHT_ARROW  &none        &none    &kp KP_NUMBER_1   &kp KP_NUMBER_2    &kp KP_NUMBER_3    &kp KP_DOT      &kp KP_DIVIDE &kp K_VOLUME_DOWN
+&studio_unlock&none         &none     &kp PRINTSCREEN   &kp UP_ARROW   &kp GRAVE                              &kp KP_NUMBER_4   &kp KP_NUMBER_5    &kp KP_NUMBER_6    &kp KP_MULTIPLY &kp KP_MINUS &kp C_VOLUME_UP
+&kp DELETE &none            &none     &kp LEFT_ARROW    &kp DOWN_ARROW &kp RIGHT_ARROW  &none        &none    &kp KP_NUMBER_1   &kp KP_NUMBER_2    &kp KP_NUMBER_3    &kp KP_DOT      &kp KP_DIVIDE &kp C_VOLUME_DOWN
                                       &none             &none          &none            &none        &none    &none             &kp KP_NUMBER_0    &kp KP_ENTER
             >;
 
