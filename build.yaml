@@ -30,4 +30,4 @@ include:
     shield: lily58_left
   - board: nrfmicro_11
     shield: lily58_right
-    cmake-args: "-DCONFIG_ZMK_STUDIO=y"
+  
