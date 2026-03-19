@@ -25,9 +25,13 @@
 #     shield: lily58_right
 #     cmake-args: "-DCONFIG_ZMK_STUDIO=y"
 
-include:
-  - board: nrfmicro_11
+# include:
+#   - board: nrfmicro_11
+#     shield: lily58_left
+#   - board: nrfmicro_11
+#     shield: lily58_right
+
+  - board: nice_nano_v2
     shield: lily58_left
-  - board: nrfmicro_11
+  - board: nice_nano_v2
     shield: lily58_right
-  
